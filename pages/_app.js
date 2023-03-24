@@ -1,7 +1,7 @@
 import '../styles/globals.css'
 import {LoginContext} from '../context/LoginContext'
 import { useState } from 'react'
-import Navbar from '../Components/Navbar';
+
 
 function MyApp({ Component, pageProps }) {
 

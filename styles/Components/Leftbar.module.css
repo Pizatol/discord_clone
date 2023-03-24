@@ -1,0 +1,17 @@
+.darkMode {
+  color: var(--white1);
+  border-bottom: 1px solid var(--white1);
+  background-color: var(--dark0);
+}
+
+.lightMode {
+  color: var(--dark0);
+  border-bottom: 1px solid var(--dark0);
+  background-color: var(--white1);
+}
+
+.global_container {
+  width: 500px;
+  height: 100vh;
+  border: 1px solid red;
+}/*# sourceMappingURL=Leftbar.module.css.map */
