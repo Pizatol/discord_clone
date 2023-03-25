@@ -1,21 +1,13 @@
-
 .darkMode {
+    border: 1px solid var(--white1);
+}
 
-	color: var(--white1);
-	border-bottom: 1px solid var(--white1) ;
-	background-color: var(--dark0);
- }
+.lightMode {
+    border: 1px solid var(--dark1);
+}
 
- .lightMode {
-	
-	color: var(--dark0);
-	border-bottom: 1px solid var(--dark0) ;
-	background-color: var(--white1);
- }
-
- .global_container {
-
-	width: 200px;
-	height: 100vh;
-	border: 1px solid red;
- }
+.global_container {
+    width: 200px;
+    height: 100vh;
+    // border: 1px solid red;
+}
